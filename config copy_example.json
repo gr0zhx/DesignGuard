@@ -1,0 +1,13 @@
+{
+  "provider": "ollama",
+  "model": "llama3.2:3b",
+  "ollama_base_url": "http://localhost:11434",
+
+  "embedding_model": "nomic-embed-text",
+  "backup_provider": "groq",
+  
+  "temperature": 0.1,
+  
+  "GROQ_API_KEY": "XXXX",
+  "GEMINI_API_KEY": "XXXX"
+}
